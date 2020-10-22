@@ -1,2 +1,5 @@
-.DS_Store
-.gitignore
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
